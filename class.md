@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Claudia Mabe
+- Certification: Data and Ciberseguridad
 
 ## Instructions
 Please replace the placeholders with your details:
